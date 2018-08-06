@@ -1,0 +1,22 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.232:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin123"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "b61c3cfd3e13e75c6d5206ff3994b689",
+			"projectName": "JenkinsPlugin_Recognito",
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\C#\\Recognito-dataDir",
+		"modules": {
+			"codeissues": [{
+				"name": "gamma_cs"
+			}]
+		}
+	}]
+}
